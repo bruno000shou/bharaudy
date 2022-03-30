@@ -1,0 +1,15 @@
+.botao2{
+    background-color: #4169E1;
+    color:white;
+    height:30px;
+    width:100px;
+}
+.botao2:hover{
+    color:orange;
+    background-color:#000080;
+}
+
+.imgbasica{
+    height: 400px;
+    width: 600px;
+}
